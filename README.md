@@ -1,2 +1,2 @@
-# automation_with_-ypress
+# automation_with_sypress
 Testing authorization using Cypress
