@@ -1,0 +1,7 @@
+{
+  "title": "#loginSection > h2",
+  "email": "#email",
+  "password": "#password",
+  "login_button": "#loginForm > .btn",
+  "fogot_pass_btn": "#forgotPasswordLink"
+}
